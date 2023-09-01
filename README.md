@@ -17,7 +17,7 @@ You can upload QVDs, log files, QVWs for version control. Sky is the limit
 
 ## Usage
 
-1. Choose your process ps1 file. You can leverage both scripts by pushing individual files and then after the full load process run a sync. This will less cpu intensive then running just the sync.
+1. Choose your process ps1 file. You can leverage both scripts by pushing individual files and then after the full load process run a sync. This will be less cpu intensive than running just the sync.
 
 ![Screenshot](https://raw.githubusercontent.com/balexbyrd/s3ndit/master/img/variables.PNG) 
 
